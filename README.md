@@ -14,7 +14,7 @@
 
 Clone the base repository onto your desktop with `git` as follows:
 ```console
-$ git clone https://github.com/omkarmali235/Movies-Recommendation-System-using-KNN
+$ git clone https://github.com/Movies-Recommendation-System-using-KNN
 ```
 
 ``
@@ -49,7 +49,8 @@ $ python index.py
 
 #### Owners
  1.Omkar Pradip Mali<br>
- 2.Srushti Dhanyakumar Mandape 
+ 2.Aniket Manik Hiremath 
 
 #### Follow us in linkedIN
- Omkar - www.linkedin.com/in/omkar-mali-opm
+ Omkar - www.linkedin.com/in/aniket-hiremath-242731149
+
