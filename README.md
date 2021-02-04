@@ -48,9 +48,8 @@ $ python index.py
 ![](/Reccomendation.png)
 
 #### Owners
- 1.Omkar Pradip Mali<br>
- 2.Aniket Manik Hiremath 
+ - Aniket Manik Hiremath 
 
-#### Follow us in linkedIN
- Omkar - www.linkedin.com/in/aniket-hiremath-242731149
+#### Follow me on linkedIN
+ Aniket Hiremath - www.linkedin.com/in/aniket-hiremath-242731149
 
